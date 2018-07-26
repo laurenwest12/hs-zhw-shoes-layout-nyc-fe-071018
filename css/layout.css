@@ -23,7 +23,8 @@
 }
 
 .deals {
-  
+  display: inline-block;
+  width: 30%;
 }
 
 /* Posititoning Classes */
