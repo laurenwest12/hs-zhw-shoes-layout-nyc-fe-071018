@@ -44,6 +44,9 @@
 .archive {
   width: 20%;
   background: none;
+  content: "";
+    clear: both;
+    display: table;
 }
 
 /* Posititoning Classes */
