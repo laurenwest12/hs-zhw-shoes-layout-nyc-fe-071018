@@ -20,6 +20,7 @@
 
 .deals {
   display: flex;
+  margin: 10px;
 }
 
 .clear {
