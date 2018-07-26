@@ -22,11 +22,7 @@
   clear: both;
 }
 
-.column {
-  display: inline-block;
-  width: 30%;
-  float: left;
-}
+
 
 /* Posititoning Classes */
 
