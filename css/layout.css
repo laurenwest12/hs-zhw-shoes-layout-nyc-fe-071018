@@ -38,6 +38,9 @@
   background: none;
 }
 
+.row {
+  display: flex;
+}
 .archive {
   width: 20%;
   background: none;
